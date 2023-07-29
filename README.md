@@ -1,2 +1,5 @@
 # JASSAA.IN
-jassaa_website
+**WELCOME TO JASSAA.IN**
+
+FILE NAME & DATABASE NAME SHOULD BE **jassaa_website** 
+
