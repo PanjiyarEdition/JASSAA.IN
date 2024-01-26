@@ -40,7 +40,3 @@ Admin Room Management:
 
 **Technologies/Tools Used:**
 •	Utilized HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL and Paytm API for seamless integration.
-
-
-
-FILE NAME & DATABASE NAME SHOULD BE **jassaa_website** 
